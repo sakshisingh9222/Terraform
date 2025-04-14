@@ -9,7 +9,7 @@ Cloud Provider Account: Set up an account with a cloud provider like AWS, GCP, o
 # Steps:
 1. Install TerraforM
 2. Set up AWS credentials on your machine
-     ### aws configure
+     ##aws configure
       This will prompt you for the AWS Access Key, Secret Key, region, and output format.
 3. Create the Terraform configuration file (main.tf) and paste the following configuration into it.
     ###terraform {
